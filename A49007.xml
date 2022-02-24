@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of Common-Councill of the city of London (made in the first and second years of the reign of Philip &amp; Mary) for retrenching of the expences of the Lord Mayor &amp; sheriffs, &amp;c. published with additional reasons for putting the said act in present execution and now offered to the consideration of all good citizens, by some well-wishers of the present and future prosperity of the said city ; presented to my Lord-Mayor, aldermen, and sheriffs.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49007</idno>
+            <idno type="STC">Wing L2858A</idno>
+            <idno type="STC">ESTC R920</idno>
+            <idno type="EEBO-CITATION">13656891</idno>
+            <idno type="OCLC">ocm 13656891</idno>
+            <idno type="VID">101039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of Common-Councill of the city of London (made in the first and second years of the reign of Philip &amp; Mary) for retrenching of the expences of the Lord Mayor &amp; sheriffs, &amp;c. published with additional reasons for putting the said act in present execution and now offered to the consideration of all good citizens, by some well-wishers of the present and future prosperity of the said city ; presented to my Lord-Mayor, aldermen, and sheriffs.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101039:1" rendition="simple:additions"/>
+            <p>AN Act of Common-Councill Of the City of <hi>LONDON,</hi> (Made in the firſt and ſecond years of the Reign of <hi>Philip</hi> &amp; <hi>Mary</hi>) FOR <hi>Retrenching of the Expences</hi> OF THE <hi>Lord Mayor &amp; Sheriffs, &amp;c.</hi> PUBLISHED With Additional REASONS for putting the ſaid ACT in preſent Execution. And now offered to the Conſideration of all good Citizens, by ſome Well-wiſhers of the pre<g ref="char:EOLhyphen"/>ſent and future Proſperity of the ſaid City. Preſented to my Lord-Mayor, Aldermen, and Sheriffs.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Fr. Smith,</hi> at the Elephant and Caſtle in <hi>Cornhill,</hi> near the Royal Exchange, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="statute">
+            <pb facs="tcp:101039:2"/>
+            <pb n="3" facs="tcp:101039:2"/>
+            <head>Anno primo &amp; ſecundo <hi>PHILIPPI &amp; MARIE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>T this Court after the reading of a certain Bill, lately de<g ref="char:EOLhyphen"/>viſed and drawn for and concerning the Diet of the Lord Mayor, the Sheriffs, and the Aldermen of this City for the time being, to be kept and obſerved at their Tables, the tenour whereof hereafter enſueth: It was read and agreed, enacted and accorded by Authority aforeſaid, That the ſame Bill ſhould be entred on Record, and the whole Contents and Articles thereof, and every of them be from henceforth duly obſerved, and put in execution, from time to time, according to the purport, true mean<g ref="char:EOLhyphen"/>ing and effect of the ſame.</p>
+            <p>By the Lord-Mayor, his Brethren the Aldermen of the City of <hi>London,</hi> and Common-Council of the ſame.</p>
+            <p>
+               <hi>FOrasmuch</hi> as the Teſtimony as well of divers and ſundry good Ordi<g ref="char:EOLhyphen"/>nances, preſented for the reformation of the great Exceſs in Fare, and other things, uſed and accuſtomed in Mayors and Sheriffs Houſes; and at the Mayors Feaſts of this honourable City of <hi>London,</hi> do evidently ſhew, and declare unto us that our ancient, wiſe and prudent Fore-fathers have many and often times attempted the redreſs and amendment of the ſame. And the great dearth of Victuals, and exceſſive Charges within theſe days doth abound, as is well known to all men, compelleth us now at this pre<g ref="char:EOLhyphen"/>ſent to take Order therein. For as it hath, and doth plainly appear, the Charges of the Maioralty and Shrevalties are ſo huge and great, that al<g ref="char:EOLhyphen"/>moſt all good Citizens flie, and refuſe to ſerve in this honourable City, only becauſe of the great Exceſs and Chargeable Fare and Diet uſed in the time of the ſaid Offices.</p>
+            <p>
+               <hi>For</hi> remedy whereof, and for the advancement of the Commonwealth, Be it therefore enacted by the Lord Mayor, and his Brethren the Alder<g ref="char:EOLhyphen"/>men, with the aſſent and conſent of the Commons in this preſent Com<g ref="char:EOLhyphen"/>mon-Council aſſembled, and by the Authority of the ſame, That from henceforth it ſhall not be lawful either for the Mayor or Sheriffs of this Honourable City that now are, or that hereafter ſhall bear and have the ſaid Rooms and Offices, to be ſerved at his or their ſeveral Tables in any of their Houſes at Dinner, or at Supper, with any more Courſes than one.</p>
+            <p>
+               <hi>And</hi> that neither they, nor any of them, ſhall have at one time any moe ſundry Diſhes of Meat at that one Courſe upon the Sunday, or other Feſtival days, being a Fleſh-day, than Six, whether the ſame be hot or cold; and one or two of the ſame ſix Diſhes to come to the Board as hot as a Reward, if they will, after the firſt three or five are ſerved to the Board. And upon every Holy-day, being a Fiſh-day, at their ſaid one Courſe, Seven divers Diſhes of Meats, and not above. And at the ſame
+<pb n="4" facs="tcp:101039:3"/> one Courſe every Working-day, being a Fleſh-day, Five Diſhes, and not a<g ref="char:EOLhyphen"/>bove; and every Working-day, being a Fiſh-day, at their ſaid one Courſe, Six Diſhes of ſeveral Meats, and not above.</p>
+            <p>
+               <hi>Provided</hi> always, and it is agreed, That neither Brawn, Collops with Eggs, Sallads, Pottage, Butter, Cheeſe, Eggs, Herrings, Sprats, Shrimps, or any Shell-fiſh, nor no kind of Fruit unbaked, ſhall be accounted for any of the ſaid number of Diſhes of Meats above-mentioned. <hi>Provided</hi> alſo that the Lord Mayor of this City for the time being, may always, both Working-day and Holy-day, at his pleaſure, have and be ſerved at his ſaid one Courſe with one Diſh of Meat, either of Fiſh or Fleſh, more than is before limited and appointed by this preſent Act and Ordinance, Any thing contained therein to the contrary notwithſtanding.</p>
+            <p>
+               <hi>Alſo,</hi> that it is agreed and enacted, That neither the Serjeants, nor other Officers of any Lord Mayor's Houſe, nor the Serjeants, Yeomen, nor other Officers of the Sheriffs Houſes for the time being, ſhall have at any time moe ſundry Diſhes of Meat, either at Dinner or at Supper, upon the Fleſh-days, but Three, whether the ſame be hot or cold; and upon the Fiſh-days to have Four ſundry Diſhes of Meats, and not above, whether the ſame be hot or cold. Provided always, and it is agreed, That neither Brawn, Sallads, nor any ſuch-like meats as is afore excepted, ſhall be ac<g ref="char:EOLhyphen"/>counted for any of the ſaid Diſhes, for the Serjeants, Yeomen, or other Of<g ref="char:EOLhyphen"/>ficers, Any thing in this ſaid Act to the contrary notwithſtanding.</p>
+            <p>
+               <hi>Alſo</hi> it is further ordained and enacted by the Authority aforeſaid, That none of the Aldermen, or Commoners of this City for the time being, ſhall at any time from henceforth exceed or paſs the number of Diſhes of Meats above limited and appointed for the Sheriffs as aforeſaid, either at their Dinners or Suppers in their own proper Manſion Houſes, Brawn, Sal<g ref="char:EOLhyphen"/>lads, and other like things as aforeſaid excepted; nor in any of the Halls of Companies at any Feaſt or time; Nor that there be no Swan, Crane nor Buſtard, which were wont to be called <hi>Headpooles,</hi> ſhall be ſpent at any Feaſt kept in any of the Halls of any Companies, upon the pain of forfei<g ref="char:EOLhyphen"/>ture of every ſuch offence <hi>toties quoties,</hi> Forty ſhillings.</p>
+            <p>
+               <hi>And</hi> be it further enacted by Authority aforeſaid, aſwell for the eaſe and commodity of the Aged Perſons, as alſo for the avoiding of the great unquietneſs that often happens at the ſaid Feaſts, from henceforth a cer<g ref="char:EOLhyphen"/>tain convenient number of the Clothing, aſwel of the principal Crafts, as of the meaner Companies, which were accuſtomed to dine at the Mayors Feaſt, ſhall be abated; And there ſhall remain to dine at the ſaid Feaſt a certain number of every ſuch Company as hath been accuſtomed to dine at the ſaid Feaſt, the number whereof ſhall be yearly appointed by the Lord Mayor, and his Brethren the Aldermen of the ſaid City for the time being; And ſhall be ſerved at the ſaid Feaſt but with one Courſe, and but Six Diſhes in the ſaid Courſe for one Meſs, beſides the Brawn, if it be on a Fleſh-day; And if it fall on a Fiſh-day, then to have Seven Diſhes at a Meſs, beſides Butter, Eggs, and ſuch like, as is above recited and declared. <hi>Provided</hi> always, that when it ſhall happen any Ambaſſador, or any of the Privy Council to be at the ſaid Feaſt, that then for their Board only, to be amended and ordered by the diſcretion or the ſaid Maior and Sheriffs for that time being; And no Banquet after Dinner to be had, except <hi>Ipo<g ref="char:EOLhyphen"/>cras</hi> and <hi>Wafers,</hi> as in time paſt hath been uſed.</p>
+            <pb n="5" facs="tcp:101039:3"/>
+            <p>
+               <hi>And</hi> the Feſtival-days that were wont to be kept by the Mayors and Sheriffs in their ſeveral Houſes; that is to ſay, the three Holy-days after Whitſontide, and the Dinners kept at <hi>Bartholmewtide</hi> from henceforth to be left, and laid down by the ſaid Mayor and Sheriffs. <hi>And</hi> the Feaſts of <hi>Chriſtmaſs</hi> and <hi>Eaſter,</hi> with the Holy-days next after, to be uſed and kept by the ſaid Mayor and Sheriffs, as heretofore hath been accuſtomed, and to keep the Order as is aforeſaid.</p>
+            <p>
+               <hi>It</hi> is alſo ordered and enacted by the Authority aforeſaid, That the Sheriffs of this City for the time being, from henceforth ſhall have but Fourteen Serjeants, and Fourteen Yeomen apiece. <hi>Provided</hi> always, that all ſuch Serjeants and Yeomen as now are in Office, ſhall ſtill remain in the ſame, except by Death, or by ſome other juſt occaſion or offence, they ſhall be removed out of any of the ſaid Offices, Any thing herein con<g ref="char:EOLhyphen"/>tained to the contrary notwithſtanding.</p>
+            <p>
+               <hi>And</hi> it is alſo by the ſaid Authority enacted, That the ſaid Sheriffs of this Honourable City for the time being, ſhall from henceforth give to every of their Serjeants and Yeoman two Gowns at the times accuſtom<g ref="char:EOLhyphen"/>ed, and no other Liveries; And to every other Clerks of the Compters, and ſuch as have been accuſtomed to have had Gowns at <hi>Christmaſs,</hi> to have only one Livery-Gown, and no more.</p>
+            <p>
+               <hi>And</hi> it is further ordained, That from henceforth there ſhall no Wyth be ſet home neither at the Mayors nor Sheriffs Houſes; Neither ſhall they keep any Lord of Miſrule in any of their ſaid Houſes.</p>
+            <p>
+               <hi>And</hi> it is further eſtabliſhed and agreed by this Common-Council, That every of the Aldermen that ſhall at any time hereafter go about to excuſe or diſcharge any of his ſaid Brethren, or other perſon or perſons aforeſaid, of his or their default or offence, committed or done contrary to the tenour and true meaning of this preſent Act, ſhall forfeit and loſe for every ſuch time of his or their ſo doing, Forty ſhillings; ſo that it be duly proved before the ſaid Mayor and Court of Aldermen for the time being.</p>
+            <p>
+               <hi>And</hi> that all and every the Penalties aforeſaid to be forfeited, ſhall be forthwith, upon the tryal thereof, be laid down, and paid in the inner Chamber of <hi>Guild-hall</hi> before a Court of Aldermen: The one moyety of every ſuch Forfeiture to be to him or them that ſhall preſent the ſame, and the other moyety to be diſtributed towards the ſuſtentation of Chriſt's Hoſpital.</p>
+            <p>
+               <hi>Item,</hi> Foraſmuch as the Lord-Mayor and Sheriffs of this City for the time being, ſhortly after their firſt entry into their ſaid ſeveral Offices and Rooms, be yearly at great and exceeding Expences and Charges, for and by reaſon of the great and ſumptuous Feaſt, which they for the Honour and Renown of the ſame, do keep and make in the <hi>Guild-hall,</hi> called the Mayor and Sheriffs Feaſt, aſwell to and for ſuch Noblemen of the King and Queens moſt Honourable Council, Ambaſſadors of Foreign Realms and Potentates as are bidden and deſired to vouchſafe to come unto the ſame; as alſo to and for the Aldermen and Worſhipful Commons and Ci<g ref="char:EOLhyphen"/>tizens of the ſame City: <hi>Be</hi> it therefore alſo ordained, enacted and eſta<g ref="char:EOLhyphen"/>bliſhed by the Authority aforeſaid, That the ſaid Lord-Mayor and Sheriffs for the time being, ſhall yearly from henceforth at the time of the making of their ſaid Feaſt, have of the Free-gift of the ſaid City, out of the Chamber of the ſame City, of the Common Store and Treaſure of the
+<pb n="6" facs="tcp:101039:4"/> ſaid City there, towards the relief of their ſaid Charges, and Expences of the ſaid Feaſt, the ſum of One hundred Pounds of current Money of <hi>England. <hi>And</hi>
+               </hi> that this preſent Act ſhall be a ſufficient Warrant and Diſcharge unto the Chamberlain of the ſaid City for the time being, for the yearly payment of the ſame Sum of One hundred Pounds accordingly.</p>
+            <div type="commentary">
+               <opener>
+                  <salute>READER,</salute>
+               </opener>
+               <p>AS by this Act you may obſerve, that our Predeceſſors taking notice that the Extravagancies of Mayors and Sheriffs cauſed (as they ſay) almoſt all good Citizens to flie and refuſe the ſervice; ſo to prevent that Miſchief in the future, they limited them in their living to the Method di<g ref="char:EOLhyphen"/>rected by this Act. And if when little was ſpent beſides the growth of our own Country, Beer and Ale being then their drink, they thought it their Wiſdom to ſet bounds to Luxurious Profuſeneſs, there is much more reaſon for it now, when Debauchery is come to that height, that the fifth part of the Charge of a Shrievalty is in Wine, the growth of another Country. And when Feaſts, hardly heard of in former times, are riſen to that Exceſs, as would be ſcandalous to mention, as thoſe called the <hi>Chequer</hi> and <hi>Spittle Feaſts,</hi> the firſt coſting in Wine betwixt Seventy and Eighty Pounds; and the latter, after the pretended Service of God in hearing a Sermon, coſts above Three Hundred Pounds to each Sheriff. And though much after this rate is the reſt of the Year ſpent, yet when the Example of this Act is urged for laying aſide theſe ſinful Feaſts, and redu<g ref="char:EOLhyphen"/>cing the reſt unto this Pattern, which is a wholſom Law, ſome who ſhould ſee to the putting it in execution, will not hear of it; and poſſibly becauſe they would have others be as profuſe as themſelves have been, though there are theſe Reaſons for Reformation herein.</p>
+               <p>I. Becauſe nothing can tend more to the Advancement of any City or Country than the having wiſe and good Magiſtrates; And that ſo long as the great expence of Shrievalties continue, the City muſt, as this Act ſuggeſts, have an eye to Wealth, more than Parts or Vertue, in the Choice of their Sheriffs; and that ſuch as their Sheriffs are, ſuch will the Court of Aldermen be: And therefore as neceſſary for the good Government of this great City, the charge of Shrevalties ought to be reduced to ſuch an Order and Method, as may be an Encouragement to Men of more Honeſty than Riches to ſerve the Place.</p>
+               <p>II. No Man hath reaſon to be expenſive in his Shrievalty; becauſe though the Court of Alderman hath a Rule for ſupplying, as any die, their vacant places out of thoſe that have ſerved Sheriffs, yet they make their Electi<g ref="char:EOLhyphen"/>on to depend upon the uncertain humour of their Court, thereby fru<g ref="char:EOLhyphen"/>ſtrating when they pleaſe all Compenſation for the Expence and drudgery of a Shrievalty, as lately appeared in their Choice of Sir <hi>Simon Lewis,</hi> one of their preſent Sheriffs, rejecting Sir <hi>Thomas Stamp,</hi> who had ſerved the Place ſeveral years before with good approbation, and was preſented to them by the Ward he lives in as a deſerving Perſon. And whereas each
+<pb n="7" facs="tcp:101039:4"/> Ward when they want an Alderman, do preſent two Commoners to the Court, for them to chuſe one, the Ward of <hi>Baſſiſhaw,</hi> to the end that Sir <hi>Thomas</hi> might unavoidably be choſen, joyned the younger (and not the el<g ref="char:EOLhyphen"/>der) Sheriff with him, not thinking that an old Sheriff would be baulked, to chuſe one that had not ſerved his Year; and yet notwithſtanding, the Court by their Prerogative paſſed by Sir <hi>Thomas,</hi> to the diſappointing of the Ward that ſent him. And this Example is I ſuppoſe a good reaſon for Sheriffs in the future not to ſpend more in their Shrievalties than is ne<g ref="char:EOLhyphen"/>ceſſary, when their Reward is ſo uncertain.</p>
+               <p>III. Becauſe as the Wiſdom of the Nation did by Act of Parliament pro<g ref="char:EOLhyphen"/>hibit the profuſe Hoſpitality of the Sheriffs in the Counties; ſo there can be no reaſon aſſigned why the Sheriffs of <hi>London</hi> and <hi>Middleſex</hi> ſhould not voluntarily obſerve the Prudence of that Prohibition as well as other Counties; or why the Citizens of <hi>London</hi> ſhould not exerciſe the ſame diſ<g ref="char:EOLhyphen"/>cretion as the Gentry (at this time) do in many Counties, where, by an Agreement among themſelves, they have retrenched the Charge of Shrie<g ref="char:EOLhyphen"/>valties.</p>
+               <p>IIII. It is againſt common Senſe and Reaſon that a Miniſterial Officer in this City, contrary to the Rules of all other Countries, ſhould in a way of Servitude waſte his Eſtate, when the expending of his ſtrength and time in a faithful diſcharge of his duty is all that can be incumbent upon him, or can be juſtly expected from him.</p>
+               <p>V. If great Hoſpitality, or rather a luxurious way of living, be for the Ho<g ref="char:EOLhyphen"/>nour of the City, as ſome do vainly pretend, the Charges ought in Juſtice to be born by them for whoſe Honour it is, and not by perſons who do not ſeek or deſire the Imployment, but have it impoſed upon them. And by common conſent and uſage of all other Countries, an extravagant way of living is not accounted the Honour of a Nation: for if it were, we ſhould find it more practiſed by Princes than it is; and if it be not uſed by Su<g ref="char:EOLhyphen"/>pream Magiſtrates, mere Miniſterial Officers have much leſs cauſe to do it.</p>
+               <p>VI. That the management of this Expence is in a rude and diſagreeable way to any ſober perſon, a great part of it being ſpent in Popular Feaſts, where the Ravenous Attendants and their Rabble Acquaintance, are like ſo many Beaſts of Prey; and all the Year after, ſuch of them as are made uſe of, do from pretended Cuſtom, command that which they call their due in the Sheriffs Houſes, as if they were their Maſters, and not they theirs, a thing odious to all good Men, and ought to be reformed.</p>
+               <p>VII. That the Debauchery in this Expence is a ſin before God, and were it known, would be a ſcandal in the ſight of Man; as appears, in that of Three thouſand Pounds Expence in all manner of ways, above Five hun<g ref="char:EOLhyphen"/>dred Pounds is in Wine; when a Lord, or Gentleman, that formerly lived at the rate of Ten or Twelve thouſand Pounds <hi>per Annum,</hi> did not, as is well known (but thirty years ago) ſpend an hundred Pounds in Wine.</p>
+               <pb n="8" facs="tcp:101039:5"/>
+               <p>VIII. It ſeems inconſiſtent with Right Reaſon, and Common Senſe, that one who is but the Lord-Mayors Servant, attending upon him every day, and at moſt but a Publick Miniſterial Officer, and no Magiſtrate, ſhould be at ſo great a Charge, eſpecially when he can have no other Proſpect, than a preſent ſerving his Generation with the toyl and expence of his ſtrength and time.</p>
+               <p>It is ſaid of <hi>Philip</hi> the ſecond K. of <hi>Spain,</hi> that as a means to ſubdue the <hi>Netherlands,</hi> by reducing them to Poverty, and ſo to depend upon him, he provoked the Chief of them, by the Example of his Governours high and ſplendid living (to whom to that end he gave extraordinary Allow<g ref="char:EOLhyphen"/>ances) to live above their Eſtates: But ſince we are happy in a King, that doth not the like to us by ſuch Example, it will be no Credit to this Ci<g ref="char:EOLhyphen"/>ty to have it recorded in Story, that the Ruine of it proceeded from them<g ref="char:EOLhyphen"/>ſelves, in a voluntary ſuffering an Extravagancy, which by the Example of this laſt Year, ſeems to be growing; and therefore it may be wiſh'd, be<g ref="char:EOLhyphen"/>fore it be too late, that the miſchief hereof may be prevented, in retrench<g ref="char:EOLhyphen"/>ing the Charge of Sheriffs, by laying aſide all great Feaſts, ſave that of the Lord Mayors-Day, (and yet that any part of that Charge ſhould be born by the Sheriffs, who are but Servants in it, is againſt equal Juſtice.)</p>
+               <p>IX. Becauſe ſhould not the Mayors Feaſt be reduced to the Rule of this Act, the City is obliged in Juſtice to pay all Exceedings. For ſince the Law judging the whole Charge, as it is thereby ſtated, to be too much for the Mayor and Sheriffs to bear, do allow them an hundred Pounds towards it; It doth conſequently grant, that if the Rule be tranſgreſſed, the City ought to bear the Charge: for it is not to be ſuppoſed that the Mayor and Sheriffs will voluntarily break a penal Statute, thereby to put them<g ref="char:EOLhyphen"/>ſelves (beſides the Penalty of this Law) to extraordinary Expences.</p>
+               <p>X. As all Men in Government ought as well to provide againſt future as preſent Miſchiefs; ſo though ſo long as it ſhall pleaſe God to bleſs unto us our preſent King, we need not fear the Corrupting of Sheriffs; yet not having an infallible aſſurance of Vertuous Succeſſors, it may hereafter fall out that if the Charge of Shrievalties be not retrenched, that ſo honeſt Men may be encouraged to hold, Men of Corrupt Principles may under<g ref="char:EOLhyphen"/>take the Service, in deſign to give up Themſelves and the Liberties of the City to the Bribing Bounty of future Princes.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
